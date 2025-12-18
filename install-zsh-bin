@@ -1,3 +1,3 @@
 #!/bin/sh -e
 
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/romkatv/zsh-bin/master/install)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/romkatv/zsh-bin/master/install)" -d $HOME/.local
